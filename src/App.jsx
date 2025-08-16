@@ -147,7 +147,7 @@ function App() {
       <section id="inicio" className="pt-20 pb-16 px-6">
         <div className="container mx-auto text-center">
           <div className="mb-8">
-            <img src={logoImage} alt="DeflectRAT Logo" className="mx-auto w-64 h-auto mb-6" />
+            <img src={logoImage} alt="DeflectRAT Logo" className="mx-auto h-[180px] w-auto mb-6" />
           </div>
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
             DeflectRAT
